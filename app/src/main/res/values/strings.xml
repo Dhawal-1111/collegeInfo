@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CollegeInfoApp</string>
+    <string name="create_password">create password</string>
+    <string name="log_in">Log in</string>
+    <string name="enter_email">enter_email</string>
+    <string name="confirm_password">confirm password</string>
 </resources>
